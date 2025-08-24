@@ -7,7 +7,7 @@ Control the rover from your phone or computer through a simple web interface —
 
 Watch the complete build and setup process on YouTube:
 
-▶ Will post soon
+▶ https://youtu.be/2LIX3Oo7ABs?si=gYh67pYeaMk8LkcX
 
 ## ✨ Features
 
