@@ -3,11 +3,13 @@
 A NodeMCU (ESP8266)-based WiFi-controlled rover with obstacle detection using an ultrasonic sensor.
 Control the rover from your phone or computer through a simple web interface — no mobile app required!
 
-## 📹 Full Tutorial Video
+## 📹 Full Tutorial Videos
 
-Watch the complete build and setup process on YouTube:
+- **Basic Version:**  
+  ▶ https://youtu.be/2LIX3Oo7ABs?si=gYh67pYeaMk8LkcX
 
-▶ https://youtu.be/2LIX3Oo7ABs?si=gYh67pYeaMk8LkcX
+- **Enhanced Version:**  
+  ▶ [New Features & Web UI](NEW_VIDEO_LINK_HERE)
 
 ## ✨ Features
 
@@ -24,3 +26,16 @@ Watch the complete build and setup process on YouTube:
 * Ultrasonic Sensor (HC-SR04)
 * LED (for obstacle alert)
 * Chassis, wiring, and power supply (Battery)
+
+---
+
+## 📁 Project Structure
+
+- `WifiRoverControl/`  
+  - Original version:  
+    - Circuit diagram: `WifiRoverControlCircuitDiagram.png`  
+    - Code: `WifiRoverControl.ino`
+- `WifiRoverControlEnhanced/`  
+  - Enhanced version with new web features:  
+    - Circuit diagram: `WifiRoverControlEnhancedCircuitDiagram.png`  
+    - Code: `WifiRoverControlEnhanced.ino`
