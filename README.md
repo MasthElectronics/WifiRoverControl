@@ -9,7 +9,7 @@ Control the rover from your phone or computer through a simple web interface —
   ▶ https://youtu.be/2LIX3Oo7ABs?si=gYh67pYeaMk8LkcX
 
 - **Enhanced Version:**  
-  ▶ [New Features & Web UI](NEW_VIDEO_LINK_HERE)
+  ▶ [New Features & Web UI](https://youtu.be/SX6liczncKA?si=QMpjcPTlP6debbfq)
 
 ## ✨ Features
 
